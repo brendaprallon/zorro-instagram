@@ -2,7 +2,7 @@
 Exploring the automation of some of Instagram's features through my dog's account.
 
 ### API
-I'm using this incredible unofficial API devekioed in python by LevPasha:
+I'm using this incredible unofficial API deveioped in python by LevPasha:
 https://github.com/LevPasha/Instagram-API-python
 
 ### Backgorund Story
